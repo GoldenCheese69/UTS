@@ -18,7 +18,7 @@ A.setNidn("54321");
         System.out.println("alamat      :"+A.getAlamat());
         System.out.println("TTL         :"+A.getTtl());
         System.out.println("Tahun masuk :"+A.getTahunMasuk());
-        System.out.println("Jabatan     :"+A.getJurusan());
+        System.out.println("Jurusan     :"+A.getJurusan());
         A.gajiTotal();
 Tendik B=new Tendik();
         B.setNama("yogi");
